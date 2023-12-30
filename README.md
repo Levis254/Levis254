@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Levis254
-- 👀 I’m interested in R programming
-- 🌱 I’m currently learning R programming for data analysis
-- 💞️ I’m looking to collaborate on anything related to data analysis using R
+- 👀 I’m interested in R and python programming
+- 🌱 I’m currently using R and python programming for data analysis and data science
+- 💞️ I’m looking to collaborate on anything related to data science using R and python
 
 
 <!---
